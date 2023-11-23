@@ -1,0 +1,11 @@
+theater_id,cinema_id,theater_name,theater_seating_capacity,theater_sound_system
+101,1,New Horizon Auckland,250,SDDS
+102,1,New Horizon Auckland,250,SDDS
+103,1,New Horizon Auckland,200,Dolby Digital
+104,1,New Horizon Auckland,200,Dolby Digital
+105,1,New Horizon Auckland,100,Dolby Atmos
+106,1,New Horizon Auckland,100,Dolby Atmos
+201,2,New Horizon Wellington,150,THX
+202,2,New Horizon Wellington,150,THX
+203,2,New Horizon Wellington,100,Dolby Digital
+204,2,New Horizon Wellington,100,Dolby Digital
